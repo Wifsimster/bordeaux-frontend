@@ -1,3 +1,3 @@
 # Bordeaux frontend
 
-WebSocket server projet from [Bordeaux](https://github.com/Wifsimster/bordeaux)
+WebSocket server for [Bordeaux](https://github.com/Wifsimster/bordeaux)
