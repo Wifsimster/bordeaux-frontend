@@ -2,7 +2,7 @@
   "name": "bordeaux-frontend",
   "description": "Simple TV Shows manager with Transmission, Trakt and Plex integration",
   "author": "Damien BATTISTELLA <battistella@protonmail.com>",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/index.html",
   "license": "MIT",
   "scripts": {
